@@ -19,6 +19,8 @@ void setup() {
 void loop() {
 
   starWars();
+    
+  delay(5000);
   
 }
 
@@ -122,7 +124,5 @@ void starWars(){
 
   tone(bip1,NOTE_A3,longo);
   delay(longo);
-  
-  delay(5000);
 
 }
