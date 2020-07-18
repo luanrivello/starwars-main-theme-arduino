@@ -4,7 +4,6 @@
 int bip1 = 8;
 
 //Intervals
-int far = 2000;
 int longo = 2000;
 int medio = 1000;
 int curto = 500;
